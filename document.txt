@@ -1,0 +1,16 @@
+#cara memuat database /migrate
+- buat database dengan nama apishop2
+- masuk ke dalam folder shop-nodejs
+- jalankan npx sequelize-cli db:migrate 
+
+# cara menjalankan express
+- masuk ke dalam folder shop-nodejs
+- jalankan npm i
+- jalankan npm run dev
+- express akan jalan menggunakan port 4000
+
+# cara menjalankan react
+- masuk ke dalam folder shop-react
+- jalankan npm i
+- jalankan npm start
+- react akan jalan menggunakan port 3000 
